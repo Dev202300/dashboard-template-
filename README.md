@@ -1,3 +1,9 @@
+![screencapture-localhost-3000-2025-05-30-19_18_38](https://github.com/user-attachments/assets/8af33fbf-7434-42d9-97f4-23e51c599379)
+![screencapture-localhost-3000-analytics-2025-05-30-19_19_34](https://github.com/user-attachments/assets/14187209-6d80-4d98-af78-f3bb21e374c1)
+![screencapture-localhost-3000-orders-2025-05-30-19_19_44](https://github.com/user-attachments/assets/28b60fa2-29b9-4838-b8e3-98342c07b7fa)
+![screencapture-localhost-3000-products-2025-05-30-19_19_55](https://github.com/user-attachments/assets/68eb3d7d-9f48-4c3a-9bc7-09348bedc946)
+![screencapture-localhost-3000-shipping-2025-05-30-19_20_08](https://github.com/user-attachments/assets/6cd6cf4c-ddfd-4c54-915e-a35b302b51af)
+![screencapture-localhost-3000-support-2025-05-30-19_20_30](https://github.com/user-attachments/assets/e9cab8ce-ab31-4ba3-9628-28c1adf886ff)
 # My Next.js Application
 
 This is a modern web application built with [Next.js](https://nextjs.org) and enhanced with various powerful features and libraries.
