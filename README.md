@@ -1,6 +1,3 @@
-# dashboard-template-
-This project is a modern, clean, and responsive admin dashboard interface designed for e-commerce platforms to help store owners or managers monitor and manage their business performance. The dashboard displays various analytics and metrics in a visually intuitive manner, allowing for efficient business insights and decision-making.
-
 # My Next.js Application
 
 This is a modern web application built with [Next.js](https://nextjs.org) and enhanced with various powerful features and libraries.
@@ -79,3 +76,9 @@ To learn more about the technologies used in this project:
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Tremor Documentation](https://www.tremor.so/docs)
 - [Chart.js Documentation](https://www.chartjs.org/docs)
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
